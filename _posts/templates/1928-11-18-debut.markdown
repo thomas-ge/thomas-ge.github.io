@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Mickey Mouse's Debut"
+category: Template
+date:   1928-11-18 01:00:00
+last_modified_at:  1928-11-18 01:00:00
+excerpt: "Walter Elias Disney was an American entrepreneur"
+categories: history
+tags:  mickey
+image:
+  feature: steamboat.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+link: 
+---

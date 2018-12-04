@@ -1,46 +1,50 @@
 ---
 layout: default
-title: Mickey Theme for Jekyll
+title: UXperts
 ---
 
 <section class="section--first section--frontpage">
   <div class="section-title">
     <div class="container">
-      <h1 class="textLogo textLogo--frontpage">
+      <!-- <h1 class="textLogo textLogo--frontpage">
         {{ site.name }}
-      </h1>
+      </h1> -->
+      <h1>enormoUX</h1>
       <div class="postMeta-wrapper postMeta-wrapper--frontpage">
         <ul class="postMeta">
           <li class="postMeta-tagline">
-            a minimal theme for Jekyll
+            a link library to all topics UX
           </li>
         </ul>
       </div>
     </div>
   </div>
 </section>
+
 <section class="section--postsWrapper">
   <div class="container">
+    <h2>📝 UXperiment</h2>
     <div class="blockGroup">
-      <ul class="blockGroup-list">
-        {% for post in site.posts %}
+      <ul class="blockGroup-list challenges">
+        {% for post in site.categories.Challenge %}
           <li class="block">
             <div class="postArticle-wrapper">
               <article class="postArticle postArticle--short">
                 {% if post.image.feature %}
-                  <a href="{{ post.url }}">
+                  <a href="{{ post.link }}" target="_blank">
                     <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
                     </div>
                   </a>
                 {% else %}
-                <a href="{{ post.url }}">
+                <a href="{{ post.link }}" target="_blank">
                   <div class="postArticle-image" style="background-image:url('{{site.baseurl}}assets/images/logo-black.svg')">
                   </div>
                 </a>
                 {% endif %}
-                <a class="postArticle-title" href="{{ post.url }}">{{ post.title }}</a>
+                <a class="postArticle-title" href="{{ post.link }}" target="_blank">{{ post.title }}</a>
               </article>
-              <div class="block-postMeta">{{ post.date | date_to_string }}</div>
+              <!-- <div class="block-postMeta">{{ post.date | date_to_string }}</div> -->
+              <div class="block-postMeta">{{ post.excerpt | xml_escape }}</div>
             </div>
           </li>
         {% endfor %}
@@ -48,3 +52,103 @@ title: Mickey Theme for Jekyll
     </div>
   </div>
 </section>
+
+<section class="section--postsWrapper">
+  <div class="container">
+    <h2>📐 Sketch Templates</h2>
+    <div class="blockGroup">
+      <ul class="blockGroup-list">
+        {% for post in site.categories.Template %}
+          <li class="block">
+            <div class="postArticle-wrapper">
+              <article class="postArticle postArticle--short">
+                {% if post.image.feature %}
+                  <a href="{{ post.link }}" target="_blank">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
+                    </div>
+                  </a>
+                {% else %}
+                <a href="{{ post.link }}" target="_blank">
+                  <div class="postArticle-image" style="background-image:url('{{site.baseurl}}assets/images/logo-black.svg')">
+                  </div>
+                </a>
+                {% endif %}
+                <a class="postArticle-title" href="{{ post.link }}" target="_blank">{{ post.title }}</a>
+              </article>
+              <!-- <div class="block-postMeta">{{ post.date | date_to_string }}</div> -->
+              <div class="block-postMeta">{{ post.excerpt | xml_escape }}</div>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section--postsWrapper">
+  <div class="container">
+    <h2>🔌 Sketch Plugins</h2>
+    <div class="blockGroup">
+      <ul class="blockGroup-list">
+        {% for post in site.categories.Plugin %}
+          <li class="block">
+            <div class="postArticle-wrapper">
+              <article class="postArticle postArticle--short">
+                {% if post.image.feature %}
+                  <a href="{{ post.link }}" target="_blank">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
+                    </div>
+                  </a>
+                {% else %}
+                <a href="{{ post.link }}" target="_blank">
+                  <div class="postArticle-image" style="background-image:url('{{site.baseurl}}assets/images/logo-black.svg')">
+                  </div>
+                </a>
+                {% endif %}
+                <a class="postArticle-title" href="{{ post.link }}" target="_blank">{{ post.title }}</a>
+              </article>
+              <!-- <div class="block-postMeta">{{ post.date | date_to_string }}</div> -->
+              <div class="block-postMeta">{{ post.excerpt | xml_escape }}</div>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section--postsWrapper">
+  <div class="container">
+    <h2>📰 Articles</h2>
+    <div class="blockGroup">
+      <ul class="blockGroup-list">
+        {% for post in site.categories.Article %}
+          <li class="block">
+            <div class="postArticle-wrapper">
+              <article class="postArticle postArticle--short">
+                {% if post.image.feature %}
+                  <a href="{{ post.link }}" target="_blank">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ post.image.feature | prepend: site.baseurl_featured_img }}')">
+                    </div>
+                  </a>
+                {% else %}
+                <a href="{{ post.link }}" target="_blank">
+                  <div class="postArticle-image" style="background-image:url('{{site.baseurl}}assets/images/logo-black.svg')">
+                  </div>
+                </a>
+                {% endif %}
+                <a class="postArticle-title" href="{{ post.link }}" target="_blank">{{ post.title }}</a>
+              </article>
+              <!-- <div class="block-postMeta">{{ post.date | date_to_string }}</div> -->
+              <div class="block-postMeta">{{ post.excerpt | xml_escape }}</div>
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</section>
+
+<br>
+<br>
+<br>
