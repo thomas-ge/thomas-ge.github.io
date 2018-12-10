@@ -62,6 +62,17 @@
 			</item>
 		
 			<item>
+				<title>Sketch Sticky Notes</title>
+				
+				
+					<description>A small sticky notes library for Sketch.</description>
+				
+				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/debut</link>
+				<guid isPermaLink="true">http://localhost:9001/debut</guid>
+			</item>
+		
+			<item>
 				<title>Mickey Mouse's Debut</title>
 				
 				
@@ -96,17 +107,6 @@
 		
 			<item>
 				<title>This is the current challenge</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur</description>
-				
-				<pubDate>Thu, 15 Dec 1014 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/challenge</link>
-				<guid isPermaLink="true">http://localhost:9001/challenge</guid>
-			</item>
-		
-			<item>
-				<title>A Life of Walt Disney</title>
 				
 				
 					<description>Walter Elias Disney was an American entrepreneur</description>
