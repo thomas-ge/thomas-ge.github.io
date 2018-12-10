@@ -2,15 +2,13 @@
 layout: post
 title:  "Sketch Sticky Notes"
 category: Template
-date:   1928-11-18 01:00:00
-last_modified_at:  1928-11-18 01:00:00
+date:   2018-12-10 00:00:00
 excerpt: "A small sticky notes library for Sketch."
-categories: history
 image:
   feature: Stickies.png
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
-link: https://github.com/thomas-ge/Sketch-Stickies/blob/master/README.md
+link: https://github.com/thomas-ge/Sketch-Stickies
 ---

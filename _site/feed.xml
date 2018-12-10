@@ -7,69 +7,36 @@
 		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Television and later films</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur</description>
-				
-				<pubDate>Fri, 16 Dec 1983 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/television</link>
-				<guid isPermaLink="true">http://localhost:9001/television</guid>
-			</item>
-		
-			<item>
-				<title>Black and white films</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur</description>
-				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/black-and-white-films</link>
-				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
-			</item>
-		
-			<item>
-				<title>Black and white films</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur</description>
-				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/black-and-white-films</link>
-				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
-			</item>
-		
-			<item>
-				<title>Black and white films</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur</description>
-				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/black-and-white-films</link>
-				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
-			</item>
-		
-			<item>
 				<title>Sketch Sticky Notes</title>
 				
 				
 					<description>A small sticky notes library for Sketch.</description>
 				
-				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
+				<pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
 				<link>http://localhost:9001/sketch-stickies</link>
 				<guid isPermaLink="true">http://localhost:9001/sketch-stickies</guid>
 			</item>
 		
 			<item>
-				<title>Sketch Sticky Notes</title>
+				<title>Black and white films</title>
 				
 				
-					<description>A small sticky notes library for Sketch.</description>
+					<description>Walter Elias Disney was an American entrepreneur</description>
 				
-				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/debut</link>
-				<guid isPermaLink="true">http://localhost:9001/debut</guid>
+				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/black-and-white-films</link>
+				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
+			</item>
+		
+			<item>
+				<title>Black and white films</title>
+				
+				
+					<description>Walter Elias Disney was an American entrepreneur</description>
+				
+				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/black-and-white-films</link>
+				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
 			</item>
 		
 			<item>
@@ -95,7 +62,7 @@
 			</item>
 		
 			<item>
-				<title>A Life of Walt Disney</title>
+				<title>This is the current challenge</title>
 				
 				
 					<description>Walter Elias Disney was an American entrepreneur</description>
@@ -106,7 +73,7 @@
 			</item>
 		
 			<item>
-				<title>This is the current challenge</title>
+				<title>A Life of Walt Disney</title>
 				
 				
 					<description>Walter Elias Disney was an American entrepreneur</description>
