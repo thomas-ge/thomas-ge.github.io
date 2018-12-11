@@ -336,7 +336,8 @@ h6 {
 }
 
 h1 {
-  font-size: 3.999rem;
+  /* font-size: 3.999rem; */
+  font-size: 8vh;
   line-height: 4.5rem;
   margin-top: 3rem;
 }
@@ -1821,7 +1822,7 @@ body {
 @media (max-width: 767px) {
   .postMeta-wrapper--frontpage {
     width: 300px;
-    top: 100px;
+    top: 120px;
   }
 }
 
