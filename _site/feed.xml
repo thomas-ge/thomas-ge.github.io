@@ -18,14 +18,25 @@
 			</item>
 		
 			<item>
+				<title>UX Reactions</title>
+				
+				
+					<description>Fun GIFs to (UX) design situations.</description>
+				
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<link>http://localhost:9001/ux-reactions</link>
+				<guid isPermaLink="true">http://localhost:9001/ux-reactions</guid>
+			</item>
+		
+			<item>
 				<title>🙃 No current challenge</title>
 				
 				
 					<description>We don't have a running challenge right now – but we'll be back soon 🤘</description>
 				
 				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
-				<link>http://localhost:9001/challenge</link>
-				<guid isPermaLink="true">http://localhost:9001/challenge</guid>
+				<link>http://localhost:9001/current-challenge</link>
+				<guid isPermaLink="true">http://localhost:9001/current-challenge</guid>
 			</item>
 		
 			<item>
@@ -103,17 +114,6 @@
 				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
 				<link>http://localhost:9001/rename-it</link>
 				<guid isPermaLink="true">http://localhost:9001/rename-it</guid>
-			</item>
-		
-			<item>
-				<title>Lorem Ipsum Generator</title>
-				
-				
-					<description>A simple lorem ipsum generator for Sketch.</description>
-				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/lorem-ipsum</link>
-				<guid isPermaLink="true">http://localhost:9001/lorem-ipsum</guid>
 			</item>
 		
 	</channel>
