@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The 10 UX Heuristics"
+category: Article
+date:   2018-12-11 00:00:00
+excerpt: "Jakob Nielsen's 10 general principles for interaction design."
+image:
+  feature: Heuristics.jpg
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+link: https://www.nngroup.com/articles/ten-usability-heuristics/
+---

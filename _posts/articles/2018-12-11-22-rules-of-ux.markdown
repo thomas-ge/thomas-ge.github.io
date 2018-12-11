@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "22 Rules of UX"
+category: Article
+date:   2018-12-11 00:00:00
+excerpt: "Pixar’s 22 rules of storytelling adapted for UX ."
+image:
+  feature: 22Rules.jpg
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+link: https://medium.com/featured-insights/the-22-rules-of-ux-722af575915d
+---
