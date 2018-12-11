@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Sketch Sticky Notes"
+title:  "🗒 Sticky Notes"
 category: Template
 date:   2018-12-10 00:00:00
 excerpt: "A small sticky notes library for Sketch."
 image:
   feature: Stickies.png
-  topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

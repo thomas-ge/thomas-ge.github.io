@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "This is the current challenge"
+title:  "🙃 No current challenge"
 category: Challenge
-date:   1014-12-15 01:00:00
-last_modified_at:  2014-12-15 01:00:00
-excerpt: "Walter Elias Disney was an American entrepreneur"
+date:   2018-12-11 00:00:00
+excerpt: "We don't have a running challenge right now – but we'll be back soon 🤘"
 image:
-  feature: walt-disney.jpg
-  topPosition: 0px
+  feature: NoChallenge.png
 bgContrast: darker
 bgGradientOpacity: lighter
 syntaxHighlighter: no

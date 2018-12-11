@@ -7,7 +7,29 @@
 		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>Sketch Sticky Notes</title>
+				<title>🚀 Carbon Design Kit</title>
+				
+				
+					<description>The Carbon Design Kit for fast wireframing or just inspiration.</description>
+				
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<link>http://localhost:9001/carbon-design-kit</link>
+				<guid isPermaLink="true">http://localhost:9001/carbon-design-kit</guid>
+			</item>
+		
+			<item>
+				<title>🙃 No current challenge</title>
+				
+				
+					<description>We don't have a running challenge right now – but we'll be back soon 🤘</description>
+				
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<link>http://localhost:9001/challenge</link>
+				<guid isPermaLink="true">http://localhost:9001/challenge</guid>
+			</item>
+		
+			<item>
+				<title>🗒 Sticky Notes</title>
 				
 				
 					<description>A small sticky notes library for Sketch.</description>
@@ -18,14 +40,36 @@
 			</item>
 		
 			<item>
-				<title>Black and white films</title>
+				<title>Rename It</title>
 				
 				
-					<description>Walter Elias Disney was an American entrepreneur</description>
+					<description>Keep your Sketch files organized – rename layers and artboards.</description>
 				
 				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/black-and-white-films</link>
-				<guid isPermaLink="true">http://localhost:9001/black-and-white-films</guid>
+				<link>http://localhost:9001/rename-it</link>
+				<guid isPermaLink="true">http://localhost:9001/rename-it</guid>
+			</item>
+		
+			<item>
+				<title>Lorem Ipsum Generator</title>
+				
+				
+					<description>A simple lorem ipsum generator for Sketch.</description>
+				
+				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/lorem-ipsum</link>
+				<guid isPermaLink="true">http://localhost:9001/lorem-ipsum</guid>
+			</item>
+		
+			<item>
+				<title>Craft</title>
+				
+				
+					<description>Design faster with InVision syncing, stock images and more.</description>
+				
+				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
+				<link>http://localhost:9001/craft</link>
+				<guid isPermaLink="true">http://localhost:9001/craft</guid>
 			</item>
 		
 			<item>
@@ -48,28 +92,6 @@
 				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
 				<link>http://localhost:9001/debut</link>
 				<guid isPermaLink="true">http://localhost:9001/debut</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse's Debut</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur</description>
-				
-				<pubDate>Sun, 18 Nov 1928 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/debut</link>
-				<guid isPermaLink="true">http://localhost:9001/debut</guid>
-			</item>
-		
-			<item>
-				<title>This is the current challenge</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur</description>
-				
-				<pubDate>Thu, 15 Dec 1014 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/challenge</link>
-				<guid isPermaLink="true">http://localhost:9001/challenge</guid>
 			</item>
 		
 			<item>

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Rename It"
+category: Plugin
+date:   1929-03-28 01:00:00
+excerpt: "Keep your Sketch files organized – rename layers and artboards."
+image:
+  feature: RenameIt.gif
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+link: https://rodi01.github.io/RenameIt/
+---

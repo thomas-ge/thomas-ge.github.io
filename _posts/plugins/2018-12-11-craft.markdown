@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Craft"
+category: Plugin
+date:   1929-03-28 01:00:00
+excerpt: "Design faster with InVision syncing, stock images and more."
+image:
+  feature: Craft.jpg
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+link: https://www.invisionapp.com/craft
+---
