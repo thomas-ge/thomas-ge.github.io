@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>site name</title>
-		<description>description</description>
+		<title>UXperts</title>
+		<description>A link library to all topics UX.</description>
 		<link>http://localhost:9001</link>
 		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -12,7 +12,7 @@
 				
 					<description>This site helps you find the right method for your challenge.</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/carbon-design-kit</link>
 				<guid isPermaLink="true">http://localhost:9001/carbon-design-kit</guid>
 			</item>
@@ -23,7 +23,7 @@
 				
 					<description>Fun GIFs to (UX) design situations.</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/ux-reactions</link>
 				<guid isPermaLink="true">http://localhost:9001/ux-reactions</guid>
 			</item>
@@ -34,7 +34,7 @@
 				
 					<description>The Carbon Design Kit for fast wireframing or just inspiration.</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/carbon-design-kit</link>
 				<guid isPermaLink="true">http://localhost:9001/carbon-design-kit</guid>
 			</item>
@@ -45,7 +45,7 @@
 				
 					<description>We don't have a running challenge right now – but we'll be back soon 🤘</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/current-challenge</link>
 				<guid isPermaLink="true">http://localhost:9001/current-challenge</guid>
 			</item>
@@ -56,7 +56,7 @@
 				
 					<description>Applying UX thinking to your own UX job application.</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/how-to-get-a-great-job</link>
 				<guid isPermaLink="true">http://localhost:9001/how-to-get-a-great-job</guid>
 			</item>
@@ -67,7 +67,7 @@
 				
 					<description>A few Rules of Using Radio Buttons vs Drop-Down Menus</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/7-rules-of-radio-buttons</link>
 				<guid isPermaLink="true">http://localhost:9001/7-rules-of-radio-buttons</guid>
 			</item>
@@ -78,7 +78,7 @@
 				
 					<description>Learn about the 4 essential UX documents.</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/4-essential-ux-docs</link>
 				<guid isPermaLink="true">http://localhost:9001/4-essential-ux-docs</guid>
 			</item>
@@ -89,7 +89,7 @@
 				
 					<description>Pixar’s 22 rules of storytelling adapted for UX .</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/22-rules-of-ux</link>
 				<guid isPermaLink="true">http://localhost:9001/22-rules-of-ux</guid>
 			</item>
@@ -100,7 +100,7 @@
 				
 					<description>Jakob Nielsen's 10 general principles for interaction design.</description>
 				
-				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/10-heuristics</link>
 				<guid isPermaLink="true">http://localhost:9001/10-heuristics</guid>
 			</item>
@@ -111,7 +111,7 @@
 				
 					<description>A small sticky notes library for Sketch.</description>
 				
-				<pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+				<pubDate>Mon, 10 Dec 2018 01:00:00 +0100</pubDate>
 				<link>http://localhost:9001/sketch-stickies</link>
 				<guid isPermaLink="true">http://localhost:9001/sketch-stickies</guid>
 			</item>
