@@ -7,10 +7,10 @@
 		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>🚀 Carbon Design Kit</title>
+				<title>🧭 Design Methods Finder</title>
 				
 				
-					<description>The Carbon Design Kit for fast wireframing or just inspiration.</description>
+					<description>This site helps you find the right method for your challenge.</description>
 				
 				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
 				<link>http://localhost:9001/carbon-design-kit</link>
@@ -26,6 +26,17 @@
 				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
 				<link>http://localhost:9001/ux-reactions</link>
 				<guid isPermaLink="true">http://localhost:9001/ux-reactions</guid>
+			</item>
+		
+			<item>
+				<title>🚀 Carbon Design Kit</title>
+				
+				
+					<description>The Carbon Design Kit for fast wireframing or just inspiration.</description>
+				
+				<pubDate>Tue, 11 Dec 2018 00:00:00 +0000</pubDate>
+				<link>http://localhost:9001/carbon-design-kit</link>
+				<guid isPermaLink="true">http://localhost:9001/carbon-design-kit</guid>
 			</item>
 		
 			<item>
@@ -103,17 +114,6 @@
 				<pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
 				<link>http://localhost:9001/sketch-stickies</link>
 				<guid isPermaLink="true">http://localhost:9001/sketch-stickies</guid>
-			</item>
-		
-			<item>
-				<title>Rename It</title>
-				
-				
-					<description>Keep your Sketch files organized – rename layers and artboards.</description>
-				
-				<pubDate>Thu, 28 Mar 1929 01:00:00 +0000</pubDate>
-				<link>http://localhost:9001/rename-it</link>
-				<guid isPermaLink="true">http://localhost:9001/rename-it</guid>
 			</item>
 		
 	</channel>
