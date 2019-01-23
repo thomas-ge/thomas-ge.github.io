@@ -3,8 +3,19 @@
 	<channel>
 		<title>UXperts</title>
 		<description>A link library to all topics UX.</description>
-		<link>http://localhost:9001</link>
-		<atom:link href="http://localhost:9001/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://thomas-ge.github.io/</link>
+		<atom:link href="https://thomas-ge.github.io//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>🌏 Design Systems</title>
+				
+				
+					<description>A list of design systems, style guides and pattern libraries.</description>
+				
+				<pubDate>Wed, 23 Jan 2019 01:00:00 +0100</pubDate>
+				<link>https://thomas-ge.github.io//design-systems</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//design-systems</guid>
+			</item>
 		
 			<item>
 				<title>🧭 Design Methods Finder</title>
@@ -13,8 +24,8 @@
 					<description>This site helps you find the right method for your challenge.</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/carbon-design-kit</link>
-				<guid isPermaLink="true">http://localhost:9001/carbon-design-kit</guid>
+				<link>https://thomas-ge.github.io//carbon-design-kit</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//carbon-design-kit</guid>
 			</item>
 		
 			<item>
@@ -24,8 +35,8 @@
 					<description>Fun GIFs to (UX) design situations.</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/ux-reactions</link>
-				<guid isPermaLink="true">http://localhost:9001/ux-reactions</guid>
+				<link>https://thomas-ge.github.io//ux-reactions</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//ux-reactions</guid>
 			</item>
 		
 			<item>
@@ -35,8 +46,8 @@
 					<description>The Carbon Design Kit for fast wireframing or just inspiration.</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/carbon-design-kit</link>
-				<guid isPermaLink="true">http://localhost:9001/carbon-design-kit</guid>
+				<link>https://thomas-ge.github.io//carbon-design-kit</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//carbon-design-kit</guid>
 			</item>
 		
 			<item>
@@ -46,8 +57,8 @@
 					<description>We don't have a running challenge right now – but we'll be back soon 🤘</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/current-challenge</link>
-				<guid isPermaLink="true">http://localhost:9001/current-challenge</guid>
+				<link>https://thomas-ge.github.io//current-challenge</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//current-challenge</guid>
 			</item>
 		
 			<item>
@@ -57,8 +68,8 @@
 					<description>Applying UX thinking to your own UX job application.</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/how-to-get-a-great-job</link>
-				<guid isPermaLink="true">http://localhost:9001/how-to-get-a-great-job</guid>
+				<link>https://thomas-ge.github.io//how-to-get-a-great-job</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//how-to-get-a-great-job</guid>
 			</item>
 		
 			<item>
@@ -68,8 +79,8 @@
 					<description>A few Rules of Using Radio Buttons vs Drop-Down Menus</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/7-rules-of-radio-buttons</link>
-				<guid isPermaLink="true">http://localhost:9001/7-rules-of-radio-buttons</guid>
+				<link>https://thomas-ge.github.io//7-rules-of-radio-buttons</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//7-rules-of-radio-buttons</guid>
 			</item>
 		
 			<item>
@@ -79,8 +90,8 @@
 					<description>Learn about the 4 essential UX documents.</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/4-essential-ux-docs</link>
-				<guid isPermaLink="true">http://localhost:9001/4-essential-ux-docs</guid>
+				<link>https://thomas-ge.github.io//4-essential-ux-docs</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//4-essential-ux-docs</guid>
 			</item>
 		
 			<item>
@@ -90,8 +101,8 @@
 					<description>Pixar’s 22 rules of storytelling adapted for UX .</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/22-rules-of-ux</link>
-				<guid isPermaLink="true">http://localhost:9001/22-rules-of-ux</guid>
+				<link>https://thomas-ge.github.io//22-rules-of-ux</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//22-rules-of-ux</guid>
 			</item>
 		
 			<item>
@@ -101,19 +112,8 @@
 					<description>Jakob Nielsen's 10 general principles for interaction design.</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/10-heuristics</link>
-				<guid isPermaLink="true">http://localhost:9001/10-heuristics</guid>
-			</item>
-		
-			<item>
-				<title>🗒 Sticky Notes</title>
-				
-				
-					<description>A small sticky notes library for Sketch.</description>
-				
-				<pubDate>Mon, 10 Dec 2018 01:00:00 +0100</pubDate>
-				<link>http://localhost:9001/sketch-stickies</link>
-				<guid isPermaLink="true">http://localhost:9001/sketch-stickies</guid>
+				<link>https://thomas-ge.github.io//10-heuristics</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//10-heuristics</guid>
 			</item>
 		
 	</channel>
