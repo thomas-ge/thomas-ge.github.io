@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Squid"
+category: Plugin
+date:   1929-03-28 01:00:00
+excerpt: "Create Beautiful Flows in just minutes."
+image:
+  feature: Squid.png
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+link: https://uxmisfit.com/squid/
+---

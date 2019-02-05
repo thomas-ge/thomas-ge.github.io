@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "🧭 Design Methods Finder"
+title:  "Design Method Finder"
 category: Tool
-date:   2018-12-11 00:00:00
+date:   2019-01-01 00:00:00
 excerpt: "This site helps you find the right method for your challenge."
 image:
   feature: Methods.jpg

@@ -7,7 +7,7 @@
 		<atom:link href="https://thomas-ge.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>🌏 Design Systems</title>
+				<title>Design Systems</title>
 				
 				
 					<description>A list of design systems, style guides and pattern libraries.</description>
@@ -18,14 +18,25 @@
 			</item>
 		
 			<item>
-				<title>🧭 Design Methods Finder</title>
+				<title>Overflow.io</title>
+				
+				
+					<description>Turn your designs into playable user flow diagrams.</description>
+				
+				<pubDate>Tue, 01 Jan 2019 01:00:00 +0100</pubDate>
+				<link>https://thomas-ge.github.io//overflow-io</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//overflow-io</guid>
+			</item>
+		
+			<item>
+				<title>Design Method Finder</title>
 				
 				
 					<description>This site helps you find the right method for your challenge.</description>
 				
-				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>https://thomas-ge.github.io//carbon-design-kit</link>
-				<guid isPermaLink="true">https://thomas-ge.github.io//carbon-design-kit</guid>
+				<pubDate>Tue, 01 Jan 2019 01:00:00 +0100</pubDate>
+				<link>https://thomas-ge.github.io//design-method-finder</link>
+				<guid isPermaLink="true">https://thomas-ge.github.io//design-method-finder</guid>
 			</item>
 		
 			<item>
@@ -40,7 +51,7 @@
 			</item>
 		
 			<item>
-				<title>🚀 Carbon Design Kit</title>
+				<title>Carbon Design Kit</title>
 				
 				
 					<description>The Carbon Design Kit for fast wireframing or just inspiration.</description>
@@ -54,7 +65,7 @@
 				<title>🙃 No current challenge</title>
 				
 				
-					<description>We don't have a running challenge right now – but we'll be back soon 🤘</description>
+					<description>We don't have a challenge going on right now – but we'll be back soon 🤘</description>
 				
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>https://thomas-ge.github.io//current-challenge</link>
@@ -103,17 +114,6 @@
 				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
 				<link>https://thomas-ge.github.io//22-rules-of-ux</link>
 				<guid isPermaLink="true">https://thomas-ge.github.io//22-rules-of-ux</guid>
-			</item>
-		
-			<item>
-				<title>The 10 UX Heuristics</title>
-				
-				
-					<description>Jakob Nielsen's 10 general principles for interaction design.</description>
-				
-				<pubDate>Tue, 11 Dec 2018 01:00:00 +0100</pubDate>
-				<link>https://thomas-ge.github.io//10-heuristics</link>
-				<guid isPermaLink="true">https://thomas-ge.github.io//10-heuristics</guid>
 			</item>
 		
 	</channel>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🗒 Sticky Notes"
+title:  "Sticky Notes"
 category: Plugin
 date:   2018-12-10 00:00:00
 excerpt: "A small sticky notes library for Sketch."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🌏 Design Systems"
+title:  "Design Systems"
 category: Tool
 date:   2019-01-23 00:00:00
 excerpt: "A list of design systems, style guides and pattern libraries."
